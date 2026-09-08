@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "student-course-registration",
   "private": true,
   "version": "0.0.0",
@@ -20,4 +21,17 @@
     "oxlint": "^1.79.0",
     "vite": "^8.2.2"
   }
+=======
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+>>>>>>> 93dc9bd4775a22eae762ddd212b9e323973b6264
 }
